@@ -1,3 +1,3 @@
 # FirstTry
 Testing out github classroom.
-Adding and edit.
+Adding an edit.
